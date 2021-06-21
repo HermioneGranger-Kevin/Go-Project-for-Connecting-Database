@@ -40,5 +40,6 @@ func InitDB() {
 }
 
 func main() {
+	fmt.Println("This is my first database:")
 	InitDB()
 }
